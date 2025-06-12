@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning HTML, CSS, Javascript. MDX, React, Nextjs, MongoDB, Typescript
+- 🔭 I’m currently learning Web Dev completely self-taught from [The Odin Project](https://www.theodinproject.com/)
+- 🌱 I’m currently learning HTML, CSS, Javascript. React, Nodejs, MongoDB, Typescript
 
 - 🤔 I’m looking for help with getting my first tech job.
 
